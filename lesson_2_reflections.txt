@@ -15,3 +15,6 @@ In branches I can create, test... develop some experimental or new features.
 How do the diagrams help you visualize the branch structure?
 I can see branches structure, which commits were made on every branch etc.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+This way we add new features or etc to our master branch.
+
