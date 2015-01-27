@@ -3,3 +3,8 @@ I create empty repo. Then I can add files to track history.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 On staging area we add/remove files that are in our working repository to/from repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can do
+git diff --staged
+to ensure I editet needed files and added them to this commit.
