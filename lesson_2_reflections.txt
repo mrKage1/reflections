@@ -12,3 +12,6 @@ to ensure I editet needed files and added them to this commit.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 In branches I can create, test... develop some experimental or new features.
 
+How do the diagrams help you visualize the branch structure?
+I can see branches structure, which commits were made on every branch etc.
+
