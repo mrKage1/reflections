@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+I create empty repo. Then I can add files to track history.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+On staging area we add/remove files that are in our working repository to/from repository.
