@@ -1,1 +1,1 @@
-This file created directly on github.com website.
+When would you want to use a remote repository rather than keeping all your work local?
